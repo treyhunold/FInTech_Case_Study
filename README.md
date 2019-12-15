@@ -77,7 +77,9 @@ It would benefit the company by expanding its client base to both supplier and t
 They would utilize the already existing technologies they have and expand on those including data analytics and machine learning.
 
 
-###Resources
+### Resources
+
+
 1. https://pitchbook.com/
     1. https://pitchbook.com/blog/pitchbook-raises-10m-series-b-funding-from-morningstar
     2. https://pitchbook.com/blog/how-digital-partners-uses-pitchbook-to-gain-a-competitive-advantage
