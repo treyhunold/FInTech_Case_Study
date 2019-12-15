@@ -26,11 +26,23 @@ Known for its natural language processing and machine learning capabilities, Pit
 
 ### Landscape:
 
-* What domain of the financial industry is the company in?
-Investment Management
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+What domain of the finance industry is the company in? Pitchbook is a business intelligence software providing Finance and Market data solutions for small and medium size businesses as well as large enterprises within the private equity, venture capital and M&A. They are the premier data provider for the private and public equity markets. 
 
-* What are the other major companies in this domain?
+Major Trends within this doman: 
+
+“An ecosystem has emerged around low-cost retail tools as inexpensive and tax-efficient ETFs have enabled a new generation of roboadvisors expanding financial advice beyond the mass affluent and middle class.
+The availability of alternative data has allowed hedge fund managers to reinvent themselves as “quantamental”, incorporating new machine learning tools into fundamental human analysis as the industry faces scrutiny over high fees and underperformance.
+A second wave of personal savings and investment tools have begun to further democratize access to financial services to previously underserved segments.” (1.5)
+
+Major Competitors:
+
+CB Insights
+Preqin
+Sisense
+S&P Capital IQ
+Thomson Reuters
+
+In 2019 Pitchbook was named the Best Financial & Market Data Solution award for the eighth consecutive year by SIIA CODiE. It was selected because of its insights on evolving capital markets and innovation on finding financial data for private companies that is not readily available.
 
 
 ### Results
