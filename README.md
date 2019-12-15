@@ -15,12 +15,13 @@ Since the company was founded they have gone through 2 rounds of funding. In 200
 
 ### Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Pitchbooks main solution is to provide the lack of information available for the private markets. Publicly traded companies have an abundance of information available for companies and individuals to access such as daily stock prices, 10K’s, and other public financial disclosures that do not exist for private companies. Pitchbooks “mission is to provide high-quality information and hard-to-find details on the private capital markests, including valuations, cap table information and deal terms, in addition to the most detailed information on private company financings that no one else has” as stated by the founder himself. (6)
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Who is the company’s intended customer? Pitchbook main client base is Private equity firms, Venture Capitalists and Investment Banks dealing with Mergers and Acquisitions. These companies are provided with detailed information on Small and Medium size private business as well as large enterprises. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Pitchbook utilizes its competitive advantage with a database of more than 1.3 million companies. Using this “the firm can quickly discover businesses within its target regions and industry verticals, as well as see funding history, current investors and similar companies.” (1.4)
+
+Known for its natural language processing and machine learning capabilities, Pitchbook is a the forefront of the FinTech industry. Currently, “PitchBook is releasing fulltime analyst coverage on five sectors including mobility, fintech, foodtech, AI/ML and enterprise blockchain solutions. In the coming weeks, new coverage areas will be released, covering supply chain and logistics technology, consumer IoT, cloud technology, cybersecurity and healthtech – other coverage areas will be added as the private markets continue to expand. PitchBook’s Emerging Technology Research is intended to replace and supplement the challenging research workflows clients face today. The new research product employs a consistent, investor-focused framework to evaluate sectors, providing sector and sub-segment market size estimates, detailed industry outlooks, opportunity and risk assessments, value chain analysis and more. PitchBook clients can access emerging technology research in the Platform’s Research Center.” (1)
 
 
 ### Landscape:
