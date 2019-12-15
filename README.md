@@ -36,27 +36,27 @@ A second wave of personal savings and investment tools have begun to further dem
 
 Major Competitors:
 
-CB Insights
-Preqin
-Sisense
-S&P Capital IQ
-Thomson Reuters
+* CB Insights
+* Preqin
+* Sisense
+* S&P Capital IQ
+* Thomson Reuters
 
 ### Results
 
 In 2019, Pitchbook was named the Best Financial & Market Data Solution award for the eighth consecutive year by SIIA CODiE. It was selected because of its insights on evolving capital markets and innovation on finding financial data for private companies that is not readily available.
 
-* Pulling data from Finances Online who compares certain financial companies below is a list of metrics that the companies performance was based upon:
+Pulling data from Finances Online who compares certain financial companies below is a list of metrics that the companies performance was based upon:
 
-Main Functionality
-Collaboration Features
-Customization
-Integration
-Ease of use
-General Impression
-Help & Support
-Security
-Mobility
+* Main Functionality
+* Collaboration Features
+* Customization
+* Integration
+* Ease of use
+* General Impression
+* Help & Support
+* Security
+* Mobility
 (7)
 
 Pitchbook has a score of 8.8 on the SmartScore scoring system from Finances Online with a customer satisfaction rate of 97%. They scored slightly lower than their counterparts CB Insights and Sisense who have an 8.8 and a 9.7 SmartScore and a 100% and 99% customer satisfaction respectively. 
