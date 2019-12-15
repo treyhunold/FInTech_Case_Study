@@ -47,7 +47,7 @@ In 2019 Pitchbook was named the Best Financial & Market Data Solution award for 
 
 ### Results
 
-* What has been the business impact of this company so far?
+In 2019, Pitchbook was named the Best Financial & Market Data Solution award for the eighth consecutive year by SIIA CODiE. It was selected because of its insights on evolving capital markets and innovation on finding financial data for private companies that is not readily available.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
