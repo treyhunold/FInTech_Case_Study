@@ -37,6 +37,7 @@ A second wave of personal savings and investment tools have begun to further dem
 Major Competitors:
 
 * CB Insights
+* CrunchBase
 * Preqin
 * Sisense
 * S&P Capital IQ
