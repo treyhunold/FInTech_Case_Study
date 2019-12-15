@@ -15,6 +15,7 @@ Since the company was founded they have gone through 2 rounds of funding. In 200
 
 ### Business Activities:
 
+
 Pitchbooks main solution is to provide the lack of information available for the private markets. Publicly traded companies have an abundance of information available for companies and individuals to access such as daily stock prices, 10K’s, and other public financial disclosures that do not exist for private companies. Pitchbooks “mission is to provide high-quality information and hard-to-find details on the private capital markests, including valuations, cap table information and deal terms, in addition to the most detailed information on private company financings that no one else has” as stated by the founder himself. (6)
 
 Who is the company’s intended customer? Pitchbook main client base is Private equity firms, Venture Capitalists and Investment Banks dealing with Mergers and Acquisitions. These companies are provided with detailed information on Small and Medium size private business as well as large enterprises. 
@@ -25,6 +26,7 @@ Known for its natural language processing and machine learning capabilities, Pit
 
 
 ### Landscape:
+
 
 What domain of the finance industry is the company in? Pitchbook is a business intelligence software providing Finance and Market data solutions for small and medium size businesses as well as large enterprises within the private equity, venture capital and M&A. They are the premier data provider for the private and public equity markets. 
 
@@ -43,7 +45,9 @@ Major Competitors:
 * S&P Capital IQ
 * Thomson Reuters
 
+
 ### Results
+
 
 In 2019, Pitchbook was named the Best Financial & Market Data Solution award for the eighth consecutive year by SIIA CODiE. It was selected because of its insights on evolving capital markets and innovation on finding financial data for private companies that is not readily available.
 
@@ -65,15 +69,28 @@ Pitchbook has a score of 8.8 on the SmartScore scoring system from Finances Onli
 
 ### Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
 
-* Why do you think that offering this product or service would benefit the company?
+Pitchbooks mostly offers information on the sell side of private and public companies but not on the buy side. They could utilize their algorithms and machine learning to help companies get a better valuation of their company. 
 
-* What technologies would this additional product or service utilize? 
+It would benefit the company by expanding its client base to both supplier and the customer. Although this may cause a conflict of interest, I believe it would be worth looking into for the future growth of the company.
 
-* Why are these technologies appropriate for your solution?
+They would utilize the already existing technologies they have and expand on those including data analytics and machine learning.
+
 
 ###Resources
-
+1. https://pitchbook.com/
+    1. https://pitchbook.com/blog/pitchbook-raises-10m-series-b-funding-from-morningstar
+    2. https://pitchbook.com/blog/how-digital-partners-uses-pitchbook-to-gain-a-competitive-advantage
+    3. https://pitchbook.com/media/press-releases/pitchbook-launches-new-research-product-to-help-clients-better-understand-emerging-technology-sectors
+    4. https://pitchbook.com/platform-data/companies
+    5. https://pitchbook.com/news/reports/3q-2017-fintech-analyst-note-asset-management
+2. https://en.wikipedia.org/wiki/PitchBook_Data
+3. https://dealbook.nytimes.com/2009/09/29/morningstar-invests-in-pitchbook/?_r=0
+4. https://newsroom.morningstar.com/newsroom/news-archive/press-release-details/2017/Who-are-the-competitors-to-PitchBook/default.aspx
+5. https://www.crunchbase.com/organization/pitchbook-data#section-m-a-details
+6. https://medium.com/@SimpleInnovativ/chatting-starting-up-vc-valuations-and-big-data-with-founder-ceo-of-pitchbook-john-gabbert-f02816267a09
+7. https://comparisons.financesonline.com/cb-insights-vs-pitchbook
+8. https://www.prnewswire.com/news-releases/pitchbook-platform-named-best-financial--market-data-solution-by-siia-for-eighth-consecutive-year-300867755.html
+9. https://reviews.financesonline.com/p/pitchbook/
 
 
