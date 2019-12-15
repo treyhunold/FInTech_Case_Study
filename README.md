@@ -1,7 +1,10 @@
 # Case Study
-# PitchBook
+## PitchBook
 
-## Overview and Origin
+
+
+### Overview and Origin
+
 
 Pitchbook is a SaaS that provide financial and market data to various investment companies looking to find more data on specific companies and deals they are research. They also provide daily industry news and analytics.
 
@@ -9,7 +12,8 @@ Pitchbook is a SaaS that provide financial and market data to various investment
 
 Since the company was founded they have gone through 2 rounds of funding. In 2009, they had a Series A funding round that closed with $4.25 million worth of funding. The latest funding was raised in 2016 from a Series B round which brought in $13.8 million. Morningstar purchased a 20% equity stake and valued the company at $160 million at the time. Later in 2016, MorningStar purchased the remaining ownership for $180 million putting PitchBooks valuation at $225 million. 
 
-## Business Activities:
+
+### Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -19,7 +23,7 @@ What solution does this company offer that their competitors do not or cannot of
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
-## Landscape:
+### Landscape:
 
 * What domain of the financial industry is the company in?
 Investment Management
@@ -28,7 +32,7 @@ Investment Management
 * What are the other major companies in this domain?
 
 
-## Results
+### Results
 
 * What has been the business impact of this company so far?
 
@@ -37,7 +41,7 @@ Investment Management
 * How is your company performing relative to competitors in the same domain?
 
 
-## Recommendations
+### Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
 
@@ -46,5 +50,8 @@ Investment Management
 * What technologies would this additional product or service utilize? 
 
 * Why are these technologies appropriate for your solution?
+
+###Resources
+
 
 
